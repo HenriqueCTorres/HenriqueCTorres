@@ -1,0 +1,81 @@
+# Galaxy Profile README Configuration
+# Fork this repo and customize this file to make it your own!
+
+username: HenriqueCTorres
+
+profile:
+  name: "HenriqueCTorres"
+  tagline: "Data Analyst & Backend Developer"
+  company: ""
+  location: "Brazil"
+  bio: |
+    I am a Systems Analysis and Development student at FIAP, passionate about technology and constantly seeking new opportunities to learn and grow.
+  philosophy: '"Life is a lot like programming and rolling dice: sometimes you trust logic, sometimes you trust probability, but debugging both usually takes longer than expected."'
+
+social:
+  email: "henriquect08@gmail.com"
+  linkedin: "henrich1"
+  website: "https://henriquect.vercel.app"
+
+# Galaxy arms represent your core focus areas
+# Each arm spirals out from the center with its own color and tech items
+galaxy_arms:
+  - name: "Data Analytics"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "SQL"
+      - "Power BI"
+
+  - name: "Backend Engineering"
+    color: "dendrite_violet"
+    items:
+      - "Java"
+      - "Spring Boot"
+      - "REST APIs"
+
+  - name: "Cloud & Automation"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "GitHub Actions"
+      - "AWS"
+
+# Featured projects shown as constellation stars
+projects:
+  - repo: "Driven-Soft/Auralis"
+    arm: 0
+    description: "Solução criada para o monitoramento dos hábitos diários de uma pessoa."
+  - repo: "Driven-Soft/HC-Auxilia-React"
+    arm: 1
+    description: "Solução para um trabalho acadêmico ('Challenge') relacionado ao Hospital das Clínicas."
+
+# Theme color overrides
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+# Stats configuration
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Language display settings
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
