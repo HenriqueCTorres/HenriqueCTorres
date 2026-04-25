@@ -48,7 +48,7 @@ projects:
     description: "Solução criada para o monitoramento dos hábitos diários de uma pessoa."
   - repo: "Driven-Soft/HC-Auxilia-React"
     arm: 1
-    description: "Solução para um trabalho acadêmico ('Challenge') relacionado ao Hospital das Clínicas."
+    description: "Solução para o 'Challenge' relacionado ao Hospital das Clínicas."
 
 # Theme color overrides
 theme:
