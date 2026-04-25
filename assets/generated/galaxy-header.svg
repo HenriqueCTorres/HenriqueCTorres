@@ -348,7 +348,7 @@
     <text x="425" y="160" text-anchor="middle" fill="#00d4ff" font-size="14" font-weight="bold" font-family="monospace">H</text>
 
   <!-- 12. Profile text -->
-  <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif">HenriqueCTorres</text>
+  <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif">Henrich1</text>
   <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">Data Analyst &amp; Backend Developer</text>
-  <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic">&quot;Life is a lot like programming and rolling dice: sometimes you trust logic, sometimes you trust probability, but debugging both usually takes longer than expected.&quot;</text>
+  <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic">&quot;Life is like programming and rolling dice: sometimes you trust logic, sometimes probability — debugging both takes time.&quot;</text>
 </svg>
